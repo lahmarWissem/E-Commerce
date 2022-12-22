@@ -2,26 +2,26 @@
 An online computer equipment sales website.
 
 <p align="center">
-    <img src="screenshots/Statist.jpg" alt="Image" height="500" />
-    <img src="screenshots/addprod.jpg" alt="Image" height="500" />
-    <img src="screenshots/addcat.jpg" alt="Image" height="500" />
-    <img src="screenshots/adduser.jpg" alt="Image" height="500" />
-    <img src="screenshots/adminvieworders.jpg" alt="Image" height="500" />
-    <img src="screenshots/checkoutadmin.jpg" alt="Image" height="500" /> 
-    <img src="screenshots/cart.jpg" alt="Image" height="500" />
-    <img src="screenshots/cat.jpg" alt="Image" height="500" /> 
-    <img src="screenshots/Category.jpg" alt="Image" height="500" />
-    <img src="screenshots/Login.jpg" alt="Image" height="500" /> 
-    <img src="screenshots/myorders.jpg" alt="Image" height="500" />
-    <img src="screenshots/orders.jpg" alt="Image" height="500" /> 
-    <img src="screenshots/pagehome1.jpg" alt="Image" height="500" />
-    <img src="screenshots/pagehome2.jpg" alt="Image" height="500" /> 
-    <img src="screenshots/pageprod.jpg" alt="Image" height="500" /> 
-    <img src="screenshots/prod.jpg" alt="Image" height="500" /> 
-    <img src="screenshots/Registre.jpg" alt="Image" height="500" /> 
-    <img src="screenshots/users.jpg" alt="Image" height="500" /> 
-    <img src="screenshots/view.png" alt="Image" height="500" /> 
-    <img src="screenshots/WishList.jpg" alt="Image" height="500" />
+    <img src="screenshots/Statist.jpg" alt="Image"  />
+    <img src="screenshots/addprod.jpg" alt="Image" />
+    <img src="screenshots/addcat.jpg" alt="Image"  />
+    <img src="screenshots/adduser.jpg" alt="Image"  />
+    <img src="screenshots/adminvieworders.jpg" alt="Image"  />
+    <img src="screenshots/checkoutadmin.jpg" alt="Image"  /> 
+    <img src="screenshots/cart.jpg" alt="Image"  />
+    <img src="screenshots/cat.jpg" alt="Image"  /> 
+    <img src="screenshots/Category.jpg" alt="Image"  />
+    <img src="screenshots/Login.jpg" alt="Image"  /> 
+    <img src="screenshots/myorders.jpg" alt="Image"  />
+    <img src="screenshots/orders.jpg" alt="Image" /> 
+    <img src="screenshots/pagehome1.jpg" alt="Image"  />
+    <img src="screenshots/pagehome2.jpg" alt="Image" /> 
+    <img src="screenshots/pageprod.jpg" alt="Image" /> 
+    <img src="screenshots/prod.jpg" alt="Image"  /> 
+    <img src="screenshots/Registre.jpg" alt="Image"  /> 
+    <img src="screenshots/users.jpg" alt="Image"  /> 
+    <img src="screenshots/view.png" alt="Image"  /> 
+    <img src="screenshots/WishList.jpg" alt="Image" " />
 
   
   
